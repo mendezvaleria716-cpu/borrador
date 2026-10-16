@@ -1,0 +1,7 @@
+# Python: carpetas y archivos que Python genera solo (basura reciclada)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+.env

@@ -1,0 +1,12 @@
+[33mcommit 19f223b8f1fffc842e0914b56a7c94389a0972bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Vale <mendezvaleria716@gmail.com>
+Date:   Fri Oct 16 14:37:08 2026 -0500
+
+    Añadir título al README
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/gitignore b/gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
